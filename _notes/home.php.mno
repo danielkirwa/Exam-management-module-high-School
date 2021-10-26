@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SchollDetailsSet" value="name:schoolID;datatype:string,name:schoolname;datatype:string,name:schooladdress;datatype:string,name:schoollogo;datatype:string,name:schooltown;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:schoolID;datatype:string,name:schoolname;datatype:string,name:schooladdress;datatype:string,name:schoollogo;datatype:string,name:schooltown;datatype:string" />
+</info>

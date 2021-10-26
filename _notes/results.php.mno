@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SchoolName" value="name:schoolname;datatype:string" />
+	<infoitem key="UD_Studentmarks" value="name:classID;datatype:string,name:examtype;datatype:string,name:score;datatype:int,name:streamID;datatype:string,name:admino;datatype:string,name:surname;datatype:string,name:othername;datatype:string,name:kcpe;datatype:int,name:subjectcode;datatype:string,name:termID;datatype:string,name:year;datatype:string" />
+</info>
